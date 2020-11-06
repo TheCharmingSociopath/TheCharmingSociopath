@@ -7,5 +7,5 @@ Hi, I'm Aditya. I like coding, math and physics. Currently interested in and lea
 - 👯 I’m looking to collaborate on **Quantum Complexity theory, quantum algorithms**. 
 - 💬 Ask me about **Web development, quantum computing, linear algebra, abstract algebra, theoretical CS**.
 - 📫 How to reach me: Best is to email me at aditya.morolia@research.iiit.ac.in.
-- Connect with at [My homepage](https://thecharmingsociopath.github.io/), [LinkedIn](https://www.linkedin.com/in/aditya-morolia/), [Twitter](https://twitter.com/AdityaMorolia)
+- Connect with me at [My homepage](https://thecharmingsociopath.github.io/), [LinkedIn](https://www.linkedin.com/in/aditya-morolia/), [Twitter](https://twitter.com/AdityaMorolia)
 - ⚡ Fun fact: Red is red but not to everyone.
